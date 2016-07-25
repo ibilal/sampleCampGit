@@ -24,9 +24,7 @@ public class Task {
 
     /**
      * Returns the Task's text data member's value
-     *
-     * @return {String}
-     */
+*/
     public String getText() {
         return text;
     }
