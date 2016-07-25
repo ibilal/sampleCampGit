@@ -30,15 +30,6 @@ public class Task {
     }
 
     /**
-     * Set's the Task's text value to arguement's value
-     *
-     * @param text
-     */
-    public void setText(String text) {
-        this.text = text;
-    }
-
-    /**
      * Returns the Task's text data member's value
      *
      * @return {Date}
